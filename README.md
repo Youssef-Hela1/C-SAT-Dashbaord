@@ -1,4 +1,4 @@
-# C-SAT Dashboard
+<img width="2170" height="1240" alt="d44f39dc-bc99-4674-a0a8-7a31939f578a" src="https://github.com/user-attachments/assets/d760404a-6dc5-400e-9130-c19e81b0fd0e" />
 
 The below images display a C-SAT dashboard that is highly detailed, compact and efficient. 
 ----------------------------------------------------------------------------------------------------------------------------
